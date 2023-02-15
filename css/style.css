@@ -10,7 +10,7 @@ p {
 .photo {
     max-width: 100%;
     border-radius: 10px;
-    margin: 30px 0;
+    margin: 30px auto;
     display: block;
 }
 footer {
@@ -18,5 +18,5 @@ footer {
 }
 footer a {
     margin: 0 10px;
-    color: black;
+    color: rgb(11, 149, 241);
 }
